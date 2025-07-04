@@ -11,7 +11,7 @@ This project is a classic data science classification problem. The goal is to pr
 5.  **Evaluation:** Assessed the model using Accuracy, a Confusion Matrix, Precision, Recall, F1-Score, and the ROC/AUC score.
 
 ## Key Results
-* The model achieved an accuracy of **[84.92]%** and an AUC score of **[90.2]**.
+* The model achieved an accuracy of **84.92%** and an AUC score of **90.2**.
 * The most important features for predicting survival were found to be gender, passenger class, fare, and age.
 
 ## Technologies Used
